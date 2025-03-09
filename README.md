@@ -7,4 +7,7 @@
 📫 Let's connect! </br>
   Email me at: rosangelahs@icloud.com<br/>
   My LinkedIn profile: www.linkedin.com/in/rosangela-herrera-suarez-a22759217
+
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosie1028&show_icons=true&theme=transparent)<br/>  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosie1028&layout=compact&theme=transparent)
